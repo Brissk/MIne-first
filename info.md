@@ -14,3 +14,5 @@ add для уже добавленных к отслеживанию
 > git commit -a -m "message"
 **Чтобы вывести все коммиты:**
 > git log
+###### Добавление картинки:
+> [Dragon](C:\Users\cobra\GitInfo\20.jpg)
