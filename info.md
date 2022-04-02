@@ -4,3 +4,7 @@
 git init
 Чтобы получить состояние нашего репозитория:
 git status
+Для добавлениия файла к отслеживанию:
+git add file_name
+Для добавления комита:
+git commit -m "some message"
