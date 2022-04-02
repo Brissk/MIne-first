@@ -1,2 +1,3 @@
 # Hello man)
-We need to write **smth**git diff
+# Спаравка по работе с git
+
