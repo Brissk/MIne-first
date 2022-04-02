@@ -8,3 +8,7 @@ git status
 git add file_name
 Для добавления комита:
 git commit -m "some message"
+Чтобы не писать перед коммитом команду
+add для уже добавленных к отслеживанию
+файлов можно использовать тэг -а:
+git commit -a -m "message"
