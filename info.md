@@ -1,14 +1,16 @@
 # Hello man)
 # Спаравка по работе с git
 Для создания репозитория нужно ввести команду:
-git init
+> git init
 Чтобы получить состояние нашего репозитория:
-git status
+> git status
 Для добавлениия файла к отслеживанию:
-git add file_name
+> git add file_name
 Для добавления комита:
-git commit -m "some message"
+> git commit -m "some message"
 Чтобы не писать перед коммитом команду
 add для уже добавленных к отслеживанию
 файлов можно использовать тэг -а:
-git commit -a -m "message"
+> git commit -a -m "message"
+**Чтобы вывести все коммиты:**
+> git log
