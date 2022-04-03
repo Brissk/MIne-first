@@ -18,5 +18,8 @@ add для уже добавленных к отслеживанию
 Чтобы переключиться к ветке branch_name, нужно:
 > git checkout branch_name
 
+Ветка branch_name создаётся с помощью команды:
+> git branch branch_name
+
 ###### Добавление картинки:
 > ![Motorcycle](g20222.jpg)
