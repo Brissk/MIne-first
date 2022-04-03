@@ -14,5 +14,9 @@ add для уже добавленных к отслеживанию
 > git commit -a -m "message"
 **Чтобы вывести все коммиты:**
 > git log
+
+Чтобы переключиться к ветке branch_name, нужно:
+> git checkout branch_name
+
 ###### Добавление картинки:
 > ![Motorcycle](g20222.jpg)
