@@ -14,5 +14,9 @@ add для уже добавленных к отслеживанию
 > git commit -a -m "message"
 **Чтобы вывести все коммиты:**
 > git log
+
+Ветка branch_name создаётся с помощью команды:
+> git branch branch_name
+
 ###### Добавление картинки:
 > ![Motorcycle](g20222.jpg)
